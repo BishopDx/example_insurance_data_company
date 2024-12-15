@@ -1,0 +1,101 @@
+ClaimID,PolicyHolder,Department,Amount,Status
+1,Mrs. Cassandra Hall,Claims,15668,In Review
+2,Luke Ellis,Claims,16222,In Review
+3,Morgan Aguilar,Claims,6030,Denied
+4,Connie Page,Claims,11700,Approved
+5,Philip Guzman,Claims,6112,Pending
+6,Douglas Hancock,Claims,19350,Pending
+7,Joshua Perez,Claims,12694,Pending
+8,Nicole Chambers MD,Claims,7959,In Review
+9,Emily Gaines,Claims,10626,Processed
+10,Justin Gordon,Claims,19372,Processed
+11,Mary Collins,Claims,7683,Denied
+12,Jordan Baker,Claims,3799,Processed
+13,Jeffrey Berry,Claims,19033,In Review
+14,Dr. Cathy Thompson,Claims,1210,Pending
+15,Thomas Norton,Claims,8247,Denied
+16,Brandy Mooney,Claims,12072,In Review
+17,Mr. Anthony Levy,Claims,3756,Pending
+18,Melissa Love,Claims,18534,Approved
+19,James Hodges,Claims,5049,In Review
+20,Laura Wagner,Claims,16825,Approved
+21,Matthew Lewis,Claims,4945,Denied
+22,Julian Diaz,Claims,7153,Approved
+23,Charles Jennings,Claims,9215,Approved
+24,Mr. Danny Walsh,Claims,4268,Pending
+25,Charles Smith,Claims,6570,In Review
+26,Brenda Aguirre,Claims,10020,Pending
+27,Marissa Price,Claims,3602,Denied
+28,Kimberly Black,Claims,2546,In Review
+29,Catherine Hurley,Claims,9842,Denied
+30,Marilyn King,Claims,10670,Denied
+31,Thomas Wright,Claims,9513,In Review
+32,Natalie Brown,Claims,10524,Approved
+33,Leonard Lewis,Claims,4831,Approved
+34,Michael Choi,Claims,14824,Approved
+35,Jennifer Howard,Claims,12425,In Review
+36,Shelby Carlson,Claims,18576,Processed
+37,Justin Thompson,Claims,19297,Pending
+38,Angela Colon,Claims,6397,Pending
+39,Wanda Koch,Claims,4508,Approved
+40,Thomas Martin,Claims,7807,Approved
+41,John Berger,Claims,15071,Approved
+42,Michael Mullen,Claims,7106,In Review
+43,Chelsey West,Claims,6154,Denied
+44,Aaron Baker,Claims,11593,Pending
+45,Jody Hawkins,Claims,7115,Approved
+46,Curtis Stanley,Claims,19048,Approved
+47,Robin Mcdaniel,Claims,16905,Pending
+48,Sarah Miller,Claims,15346,Denied
+49,Carl Leonard,Claims,12109,Processed
+50,Yvonne Martinez,Claims,4724,Denied
+51,Madeline Wells,Claims,5068,Pending
+52,Tina Jordan,Claims,11880,Denied
+53,Norma Weeks,Claims,2478,In Review
+54,Robert Cook,Claims,19417,Processed
+55,Brenda Smith,Claims,12642,Processed
+56,Angela Hernandez,Claims,7638,In Review
+57,Alejandro Brady,Claims,6728,Processed
+58,Theresa Russell,Claims,5581,Denied
+59,Savannah Ayers,Claims,9563,Pending
+60,Emily Moore,Claims,16082,In Review
+61,Marcus Carpenter,Claims,12905,Pending
+62,Shannon Leblanc,Claims,17706,Pending
+63,George Williams,Claims,7130,Denied
+64,Christopher Smith,Claims,1731,Denied
+65,Marcus Gregory,Claims,4970,Denied
+66,John Hunt,Claims,1765,In Review
+67,Jeffrey Neal,Claims,13668,Denied
+68,Brandon Perkins,Claims,18157,In Review
+69,Katherine Briggs,Claims,9765,Denied
+70,Mr. Christopher Lester MD,Claims,9241,Processed
+71,Kyle Huber,Claims,16199,Approved
+72,Joshua Jones,Claims,16770,Processed
+73,Christopher Hall,Claims,16297,Processed
+74,Shane Cantrell,Claims,7759,In Review
+75,Larry Lane,Claims,16221,Pending
+76,Lisa Bradshaw,Claims,14466,Processed
+77,Tracy Soto,Claims,15321,Processed
+78,Jordan Garcia,Claims,7016,Denied
+79,Samantha Fernandez,Claims,6006,Approved
+80,Dr. Donna James DDS,Claims,6684,Pending
+81,David Haynes,Claims,17500,Processed
+82,Aaron Moore,Claims,10914,Processed
+83,Erin Jones,Claims,8095,Processed
+84,Anthony Smith,Claims,8677,Processed
+85,Donna Pearson,Claims,19685,In Review
+86,Bryan Hicks,Claims,3718,In Review
+87,Timothy Hawkins,Claims,13365,In Review
+88,Mr. Eddie Berger,Claims,14206,Processed
+89,Billy Beasley,Claims,14053,In Review
+90,Kim Schwartz,Claims,5264,Pending
+91,Timothy Browning,Claims,12280,Processed
+92,Damon White,Claims,13841,In Review
+93,Stephanie Pitts,Claims,2492,Pending
+94,Kristina Spencer,Claims,7009,Pending
+95,Scott Leon,Claims,19106,Denied
+96,Michelle Morales,Claims,10771,Processed
+97,Melissa Butler,Claims,17969,Processed
+98,Sara Miller,Claims,3385,Denied
+99,Karen Aguirre,Claims,13220,In Review
+100,Patrick Ingram,Claims,17489,Processed
