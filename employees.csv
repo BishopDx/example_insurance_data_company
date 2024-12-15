@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Position,Salary,ManagerID
+101,John Doe,IT,Developer,70000,0
+102,Jane Smith,Finance,Accountant,60000,201
+103,Robert Brown,Claims,Claims Officer,50000,202
+104,Emily Davis,Marketing,Marketing Specialist,55000,203
+105,Michael Wilson,Human Resources,HR Manager,80000,0
